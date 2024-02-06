@@ -1,2 +1,3 @@
 # ST7789_HAL_STM32
- ST7789 Driver based on HAL,STM32H750VBT6
+ ST7789 Driver based on HAL,STM32H750VBT6,cpp
+ ST7789驱动，使用HAL库，C++覆写
